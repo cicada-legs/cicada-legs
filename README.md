@@ -11,7 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 ### About me
 
-Hi, I should really start doing stuff outside of my assignments so this is where I'll hopefully be able to add some side projects
+Hi, there 👋
 - 💻 I'm a second year uni student studying Cybersecurity Engineering.
 - 👩‍🎓 Currently learning C, C++, and Java in my uni courses.
 - ✏️ Looking to start a side project after I finish exams :)
+- 📫 You can reach me at [wooorkbo@gmail.com](mailto:woorkbo@gmail.com)
