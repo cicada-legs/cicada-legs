@@ -14,5 +14,4 @@ You can click the Preview link to take a look at your changes.
 Hi, there 👋
 - 💻 I'm a second year uni student studying Cybersecurity Engineering.
 - 👩‍🎓 Currently learning C, C++, and Java in my uni courses.
-- ✏️ Looking to start a side project after I finish exams :)
 - 📫 You can reach me at [wooorkbo@gmail.com](mailto:woorkbo@gmail.com)
