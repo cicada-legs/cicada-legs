@@ -16,3 +16,6 @@ Hi, there 👋
 - 👩‍🎓 Currently learning C, C++, and Java in my uni courses.
 - ✨ Learning HTML, CSS, JavaScript in my free time ( when I'm not super busy with uni :') )
 - 📫 You can reach me at [wooorkbo@gmail.com](mailto:wooorkbo@gmail.com)
+
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicada-legs&layout=compact)
