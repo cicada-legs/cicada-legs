@@ -12,9 +12,11 @@ You can click the Preview link to take a look at your changes.
 ### About me
 
 Hi, there 👋
-- 💻 I'm a third year uni student studying Computer Sciecne with a specialization in Cybersecurity.
-- 👩‍🎓 Currently learning C, C++, and Java in my uni courses.
-- ✨ Learning HTML, CSS, JavaScript in my free time (when I'm not busy with uni).
+- 💻 I'm a third year uni student studying Computer Science with a specialization in Cybersecurity.
+- 👩‍🎓 Things I'm studying in uni at the moment: bash scripting, SQL and database design, Python, and Cybersecurity Principles and Tools.
+- ✨ Extra Stuff I'm doing on the side:
+  * implemented a PDF generation feature for a vulnerable web app [Finished]
+  * writing a fuzzer in Go [In Progress]
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cicada-legs&layout=compact)
