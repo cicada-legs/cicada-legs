@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ### About me
 
 Hi, there 👋
-- 💻 I'm a third year uni student studying Cybersecurity Engineering.
+- 💻 I'm a third year uni student studying Computer Sciecne with a specialization in Cybersecurity.
 - 👩‍🎓 Currently learning C, C++, and Java in my uni courses.
 - ✨ Learning HTML, CSS, JavaScript in my free time (when I'm not busy with uni).
 
