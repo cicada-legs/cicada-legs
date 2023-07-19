@@ -23,7 +23,7 @@
 
 ### About me
 - 💻 I'm a third year uni student studying Computer Science with a specialization in Cybersecurity.
-- 👩‍🎓 Things I'm studying in uni at the moment: bash scripting, SQL and database design, Python, and Cybersecurity Principles and Tools.
+- 👩‍🎓 Things I'm studying in uni at the moment: Coding and Cryptography Maths
 - ✨ Extra Stuff I'm doing on the side:
   * implemented a PDF generation feature for a vulnerable web app [Finished]
   * writing a fuzzer in Go [In Progress]
