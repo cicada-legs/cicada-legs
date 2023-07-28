@@ -15,7 +15,6 @@
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
 </p>
 
@@ -23,7 +22,7 @@
 
 ### About me
 - 💻 I'm a third year uni student studying Computer Science with a specialization in Cybersecurity.
-- 👩‍🎓 Things I'm studying in uni at the moment: Coding and Cryptography Maths
+- 👩‍🎓 Things I'm studying in uni at the moment: Coding and Cryptography Maths and Applications, Advanced Network Applications, Human and Organisational Security
 - ✨ Extra Stuff I'm doing on the side:
   * implemented a PDF generation feature for a vulnerable web app [Finished]
   * writing a fuzzer in Go [In Progress]
