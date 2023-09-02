@@ -26,6 +26,7 @@
 - ✨ Extra Stuff I'm doing on the side:
   * implemented a PDF generation feature for a vulnerable web app [Finished]
   * writing a fuzzer in Go [In Progress]
+  * updating old MongoDB drivers in Go
 
 <hr></hr>
 
