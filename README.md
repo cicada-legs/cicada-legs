@@ -22,11 +22,11 @@
 
 ### About me
 - 💻 I'm a third year uni student studying Computer Science with a specialization in Cybersecurity.
-- 👩‍🎓 Things I'm studying in uni at the moment: Coding and Cryptography Maths and Applications, Advanced Network Applications, Human and Organisational Security
 - ✨ Extra Stuff I'm doing on the side this year:
   * implemented a PDF generation feature for a vulnerable web app [Finished]
   * writing a fuzzer in Go [In Progress]
   * updating old MongoDB drivers in Go [Finished]
+  * writing a basic ransomware in Rust for Windows [In Progress] (for educational purposes)
 
 <hr></hr>
 
