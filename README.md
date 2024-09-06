@@ -3,11 +3,11 @@
 <hr></hr>
 
 ### About me
-- 💻 I'm a third year uni student studying Computer Science with a specialization in Cybersecurity.
+- 💻 I'm an Associate Security Consultant at PrivSec Consulting, currently trying to upskill in pentesting.
+- 📖 I'm also finishing up my degree in Computer Science with a specialization in Cybersecurity + minor in Mathematics.
+
 - ✨ Extra Stuff I'm doing on the side this year:
-  * implemented a PDF generation feature for a vulnerable web app [Finished]
   * writing a fuzzer in Go [In Progress]
-  * updating old MongoDB drivers in Go [Finished]
   * writing a basic ransomware in Rust for Windows [In Progress] (for educational purposes)
 
 <hr></hr>
