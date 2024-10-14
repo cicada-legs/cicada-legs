@@ -4,11 +4,11 @@
 
 ### About me
 - 💻 I'm an Associate Security Consultant at PrivSec Consulting, currently trying to upskill in pentesting.
-- 📖 I'm also finishing up my degree in Computer Science with a specialization in Cybersecurity + minor in Mathematics.
+- 📖 I'm also finishing up my degree in Computer Science with a specialization in Cybersecurity.
 
 - ✨ Extra Stuff I'm doing on the side this year:
   * writing a fuzzer in Go [In Progress]
-  * writing a basic ransomware in Rust for Windows [In Progress] (for educational purposes)
+  * writing a basic ransomware in Rust for Windows [Technically done but will probably add more features] (for educational purposes)
 
 <hr></hr>
 
